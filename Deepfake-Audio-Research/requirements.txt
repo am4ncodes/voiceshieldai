@@ -1,9 +1,0 @@
-librosa
-numpy
-pandas
-matplotlib
-soundfile
-scipy
-pydub
-noisereduce
-scikit-learn
